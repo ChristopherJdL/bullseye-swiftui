@@ -29,6 +29,7 @@
 		811D59102426B61B00CC2B7F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		811D59132426B61B00CC2B7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		811D59152426B61B00CC2B7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8127FC4B24279551003C9E70 /* screencap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screencap.png; sourceTree = "<group>"; };
 		8135C0132427828000EEC9EB /* MainButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainButton.swift; sourceTree = "<group>"; };
 		8135C015242782DF00EEC9EB /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		8135C017242783A600EEC9EB /* BullsEyeSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeSlider.swift; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 				8135C019242783D300EEC9EB /* HeaderText.swift */,
 				8135C01C242784C500EEC9EB /* GameManager.h */,
 				8135C01D242784C500EEC9EB /* GameManager.m */,
+				8127FC4B24279551003C9E70 /* screencap.png */,
 				8135C01B242784C400EEC9EB /* BullsEye-Bridging-Header.h */,
 			);
 			path = BullsEye;
