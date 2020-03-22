@@ -46,8 +46,7 @@ struct MainButton: View {
         
         return Alert(title: title,
                      message: text,
-                     primaryButton: .default(Text("Ok"), action: self.setNewValueToGuessIfNecessary),
-                     secondaryButton: .cancel())
+                     dismissButton: .default(Text("Ok"), action: self.setNewValueToGuessIfNecessary))
     }
     
 }
